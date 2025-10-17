@@ -10,7 +10,6 @@ This checklist is designed for testers of all experience levels. Use the "Pass/F
 | Cookie Consent | Manage Preferences | Click | Opens cookie settings modal | NA | There is no manage preferences |
 | Cookie Consent | Open Requested Document | Click | Opens cookie policy document | Fail | ERROR: Legal document not found: cookie-policy.md (searched at: /app/docs/legal/cookie-policy.md) |
 | Cookie Consent | Open Requested Document | Click | Opens privacy policy document | Fail | ERROR: Legal document not found: privacy-policy.md (searched at: /app/docs/legal/privacy-policy.md) |
-
 | Navigation | Features | Click | Scrolls or navigates to Features section |  |  |
 | Navigation | Pricing | Click | Displays pricing details |  |  |
 | Navigation | Contact | Click | Opens contact section or form |  |  |
