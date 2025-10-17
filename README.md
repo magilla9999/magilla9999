@@ -10,11 +10,12 @@ This checklist is designed for testers of all experience levels. Use the "Pass/F
 | Cookie Consent | Manage Preferences | Click | Opens cookie settings modal | NA | There is no manage preferences |
 | Cookie Consent | Open Requested Document | Click | Opens cookie policy document | Fail | ERROR: Legal document not found: cookie-policy.md (searched at: /app/docs/legal/cookie-policy.md) |
 | Cookie Consent | Open Requested Document | Click | Opens privacy policy document | Fail | ERROR: Legal document not found: privacy-policy.md (searched at: /app/docs/legal/privacy-policy.md) |
-| Navigation | Features | Click | Scrolls or navigates to Features section |  |  |
-| Navigation | Pricing | Click | Displays pricing details |  |  |
-| Navigation | Contact | Click | Opens contact section or form |  |  |
+| Navigation | Features | Click | Scrolls or navigates to Features section | Pass |  Scrolls to section "Everything You Need in One Depot" |
+| Navigation | Pricing | Click | Displays pricing details | Pass | Scrolls to section "Choose Your Plan" |
+| Navigation | Contact | Click | Opens contact section or form | Fail | Nothing happens when I click it |
 | Navigation | Sign In | Click | Opens login modal or page |  |  |
-| Navigation | Get Started | Click | Begins registration process |  |  |
+| Navigation | Get Started | Click | Begins registration process | Pass | Opens create login page. The verification email mentions a button but I did not see one, but was able to click the URL in the helpful tips: section |
+|Navigation | Registration Email Link | Opens home page for user | | | |
 | CTA Buttons | Join the Waitlist | Click | Opens waitlist form or redirects |  |  |
 | CTA Buttons | Try A Vision Demo | Click | Launches demo or redirects |  |  |
 | Features | Snap & Photos | Scroll | Section is visible and aligned |  |  |
