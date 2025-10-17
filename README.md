@@ -15,7 +15,8 @@ This checklist is designed for testers of all experience levels. Use the "Pass/F
 | Navigation | Contact | Click | Opens contact section or form | Fail | Nothing happens when I click it |
 | Navigation | Sign In | Click | Opens login modal or page |  |  |
 | Navigation | Get Started | Click | Begins registration process | Pass | Opens create login page. The verification email mentions a button but I did not see one, but was able to click the URL in the helpful tips: section |
-|Navigation | Registration Email Link | Opens home page for user | | | |
+|Registration Email Link | Opens home page for user | Click | | | |
+| Navigation | Sign Out | Click | I would expect it to open Home Page again |  Fail | It opens a page with what looks like possible json: \{"message":"Signed out"\} |
 | CTA Buttons | Join the Waitlist | Click | Opens waitlist form or redirects |  |  |
 | CTA Buttons | Try A Vision Demo | Click | Launches demo or redirects |  |  |
 | Features | Snap & Photos | Scroll | Section is visible and aligned |  |  |
