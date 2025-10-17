@@ -4,6 +4,8 @@ This checklist is designed for testers of all experience levels. Use the "Pass/F
 
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
 |--------|-----------|--------|------------------|-----------|-------|
+| Cookie Consent | Accept | Click | Popup disappears and saves choice |  |  |
+| Cookie Consent | Manage Preferences | Click | Opens cookie settings modal |  |  |
 | Navigation | Features | Click | Scrolls or navigates to Features section |  |  |
 | Navigation | Pricing | Click | Displays pricing details |  |  |
 | Navigation | Contact | Click | Opens contact section or form |  |  |
@@ -16,8 +18,6 @@ This checklist is designed for testers of all experience levels. Use the "Pass/F
 | Features | Review & Save | Scroll | Section is visible and aligned |  |  |
 | Visual | Hover Effects | Hover over buttons | Visual change (color, shadow, etc.) |  |  |
 | Visual | Image Load | View all images | All images load correctly |  |  |
-| Cookie Consent | Accept | Click | Popup disappears and saves choice |  |  |
-| Cookie Consent | Manage Preferences | Click | Opens cookie settings modal |  |  |
 | Mobile | Resize Browser | Resize window or use mobile view | Layout adjusts properly |  |  |
 | Mobile | Tap Buttons | Tap on mobile | Buttons are responsive and easy to tap |  |  |
 | Accessibility | Tab Navigation | Use Tab key | Focus moves logically through buttons |  |  |
