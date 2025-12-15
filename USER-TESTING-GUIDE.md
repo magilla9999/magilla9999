@@ -45,7 +45,7 @@ This section tests initial connection to https://railscanpro.com before account 
 ### Navigation Overview
 
 - **Top Bar**: RailScanPro(Home), Features, Pricing, About, Blog, Sign in, Claim Founder Spot
-- 
+ 
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
 |--------|-----------|--------|------------------|-----------|-------|
 | RailScanPro(Home)| Top Bar | Click | Navigate back to main home page | Pass | Notes |
@@ -62,6 +62,7 @@ This section tests initial connection to https://railscanpro.com before account 
 | Claim Founder Spot| Top Bar | Click | Navigate to claim found spot pagee | Pass/Fail | Notes |
 
 - ** Main Page **: Lock In Founding Prices Now(toggles)
+
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
 |--------|-----------|--------|------------------|-----------|-------|
 | Personal | Lock in Found Prices Now(toggles)| Toggle | Displays Personal Plan pricing| Pass/Fail | Notes |
