@@ -45,6 +45,7 @@ This section tests initial connection to https://railscanpro.com before account 
 ### Navigation Overview
 
 - **Top Bar**: RailScanPro(Home), Features, Pricing, About, Blog, Sign in, Claim Founder Spot
+- 
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
 |--------|-----------|--------|------------------|-----------|-------|
 | RailScanPro(Home)| Top Bar | Click | Navigate back to main home page | Pass | Notes |
