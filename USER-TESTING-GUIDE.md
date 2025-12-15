@@ -44,6 +44,7 @@ This section tests initial connection to https://railscanpro.com before account 
 
 ### Navigation Overview
 
+
 - **Top Bar**: RailScanPro(Home), Features, Pricing, About, Blog, Sign in, Claim Founder Spot
  
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
@@ -69,3 +70,8 @@ This section tests initial connection to https://railscanpro.com before account 
 | Personal | Monthly/Annual | Toggle | Displays Monthly or Annual Pricing | Pass/Fail | Notes |
 | Club/Museum | Lock in Found Prices Now(toggles)| Toggle | Displays Personal Plan pricing| Pass/Fail | Notes |
 | Club/Museum | Monthly/Annual | Toggle | Displays Monthly or Annual Pricing | Pass/Fail | Notes |
+<!--
+Source - https://stackoverflow.com/a
+Posted by Waylan, modified by community. See post 'Timeline' for change history
+Retrieved 2025-12-15, License - CC BY-SA 4.0
+-->
