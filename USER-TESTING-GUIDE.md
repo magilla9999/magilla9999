@@ -12,7 +12,8 @@ Testing should be done via UI links and not using full paths, e.g. /auth/registe
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Feature Testing Areas](#feature-testing-areas)
+2. [Navigation](#navigation)
+3. [Feature Testing Areas](#feature-testing-areas)
    - [Authentication & Account](#1-authentication--account)
    - [Asset Management](#2-asset-management-inventory)
    - [Photos & Media](#3-photos--media)
@@ -23,9 +24,9 @@ Testing should be done via UI links and not using full paths, e.g. /auth/registe
    - [Operations & Gaming](#8-operations--gaming)
    - [Settings & Profile](#9-settings--profile)
    - [Subscription & Billing](#10-subscription--billing)
-3. [Mobile Testing](#mobile-testing)
-4. [Terminal Mode (Retro UI)](#terminal-mode-retro-ui)
-5. [Bug Reporting Template](#bug-reporting-template)
+4. [Mobile Testing](#mobile-testing)
+5. [Terminal Mode (Retro UI)](#terminal-mode-retro-ui)
+6. [Bug Reporting Template](#bug-reporting-template)
 
 ---
 
@@ -41,7 +42,7 @@ This section tests initial connection to https://railscanpro.com before account 
 | Cookie Consent | Open Requested Document | Click | Opens cookie policy document | Pass | Opens Cookie Policy Last updated: November 26, 2025 and Back to home returns back to initial page|
 | Cookie Consent | Open Requested Document | Click | Opens privacy policy document | Pass | Opens Privacy Policy Last updated: November 26, 2025 and Back to home returns back to initial page|
 
-### Navigation Overview
+## Navigation Overview
 
 - **Top Bar**: RailScanPro(Home), Features, Pricing, About, Blog, Sign in, Claim Founder Spot
  
