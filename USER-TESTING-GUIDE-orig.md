@@ -84,5 +84,3 @@ Use this for a 15-minute smoke test:
 - [ ] Login with wrong password (should show error)
 - [ ] Use "Forgot Password" flow
 - [ ] Log out and verify session ends
-
-"USER-TESTING-GUIDE.md" [readonly] 437L, 12258B
