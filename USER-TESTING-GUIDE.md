@@ -30,7 +30,7 @@ Testing should be done via UI links and not using full paths, e.g. /auth/registe
 
 ---
 
-## Getting Started
+# Getting Started
 This section tests initial connection to https://railscanpro.com before account creation or login.
 
 | Section | Test Case | Action | Expected Result | Pass/Fail | Notes |
@@ -42,7 +42,9 @@ This section tests initial connection to https://railscanpro.com before account 
 | Cookie Consent | Open Requested Document | Click | Opens cookie policy document | Pass | Opens Cookie Policy Last updated: November 26, 2025 and Back to home returns back to initial page|
 | Cookie Consent | Open Requested Document | Click | Opens privacy policy document | Pass | Opens Privacy Policy Last updated: November 26, 2025 and Back to home returns back to initial page|
 
-## Navigation Overview
+---
+
+# Navigation
 
 - **Top Bar**: RailScanPro(Home), Features, Pricing, About, Blog, Sign in, Claim Founder Spot
  
