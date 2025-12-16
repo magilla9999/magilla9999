@@ -12,8 +12,8 @@ Testing should be done via UI links and not using full paths, e.g. /auth/registe
 ## Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Navigation](#navigation)
-3. [Feature Testing Areas](#feature-testing-areas)
+3. [Navigation](#navigation)
+4. [Feature Testing Areas](#feature-testing-areas)
    - [Authentication & Account](#1-authentication--account)
    - [Asset Management](#2-asset-management-inventory)
    - [Photos & Media](#3-photos--media)
@@ -24,9 +24,9 @@ Testing should be done via UI links and not using full paths, e.g. /auth/registe
    - [Operations & Gaming](#8-operations--gaming)
    - [Settings & Profile](#9-settings--profile)
    - [Subscription & Billing](#10-subscription--billing)
-4. [Mobile Testing](#mobile-testing)
-5. [Terminal Mode (Retro UI)](#terminal-mode-retro-ui)
-6. [Bug Reporting Template](#bug-reporting-template)
+5. [Mobile Testing](#mobile-testing)
+6. [Terminal Mode (Retro UI)](#terminal-mode-retro-ui)
+7. [Bug Reporting Template](#bug-reporting-template)
 
 ---
 
